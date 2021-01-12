@@ -1,6 +1,6 @@
 # Site settings
 title: 双刀大侠
-SEOTitle: 行走江湖, 总需要一身武艺
+SEOTitle: 行走江湖, 总得会点功夫
 header-img: img/post-bg-desk.jpg
 email: klovien@gmail.com
 description: 古今贯通, 即学即会, 从此不再辛苦走江湖
@@ -91,7 +91,7 @@ featured-condition-size: 1              # 相同标签数量大于这个数，�
 
 
 # Progressive Web Apps
-chrome-tab-theme-color: "#000000"
+chrome-tab-theme-color: "#DAF7A6"
 service-worker: true
 
 
